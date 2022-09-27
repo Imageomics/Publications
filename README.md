@@ -6,3 +6,5 @@ Publications from Imageomics groups (Methods in Ecology and Evolution format)
 3. Elhamod, M., Diamond, K. M., Maga, A. M., Bakis, Y., Bart Jr., H. L., Mabee, P., Dahdul, W., Leipzig, J., Greenberg, J., Avants, B., & Karpatne, A. (2022). Hierarchy-guided neural network for species classification. Methods in Ecology and Evolution, 13(3), 642–652. https://doi.org/10.1111/2041-210X.13768
 4. Song, C. H., Kil, J., Pan, T.-Y., Sadler, B. M., Chao, W.-L., & Su, Y. (2022). One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones. arXiv [cs.AI]. Retrieved from http://arxiv.org/abs/2202.07028
 5. Tuia, D., Kellenberger, B., Beery, S., Costelloe, B. R., Zuffi, S., Risse, B., … Berger-Wolf, T. (2022). Perspectives in machine learning for wildlife conservation. Nature Communications, 13(1), 1–15. <http://dx.doi.org/10.1038/s41467-022-27980-y>
+6. Rolfe, S. M., & Maga, A. M. (2022). Deep Learning Enabled Multi-Organ Segmentation of Mouse Embryos (p. 2022.08.26.505447). bioRxiv. https://doi.org/10.1101/2022.08.26.505447
+
